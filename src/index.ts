@@ -1,1 +1,1 @@
-export * from './route-endpoint';
+export * from './ValidationMiddleware';
